@@ -12,7 +12,6 @@
         "typescript": "^3.7.3"
     },
     "scripts": {
-        "dev": "ts-node ./src/server.ts",
         "build": "tsc",
         "start": "node ./dist/server.js"
     },
